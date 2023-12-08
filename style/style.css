@@ -5,6 +5,8 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
+  background-image: url("https://images.pexels.com/photos/2236713/pexels-photo-2236713.jpeg");
+  background-size: cover;
 }
 
 .container {
@@ -218,7 +220,8 @@ body {
 
 .wish h5 {
   font-weight: lighter;
-  font-size: 2rem;
+  font-size: 1rem;
+  color: white;
   margin: 10px 0 0;
 }
 
